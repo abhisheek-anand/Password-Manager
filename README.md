@@ -54,3 +54,17 @@ python password_manager.py
 * SQLite Database
 * Password Generator
 * GUI Version
+
+
+## Screenshots
+
+### View Passwords
+
+![Passwords](screenshots/Screenshot 2026-06-18 210220.png)
+
+### Add Password
+
+![Add](screenshots/Screenshot 2026-06-18 210303.png)
+
+### Exit Project
+![Exit](screenshots/Screenshot 2026-06-18 210314.png)
